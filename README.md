@@ -1,0 +1,1 @@
+Começei a escrever a documentação, vai lá ler nmrl ta mt bom [here](https://opensource-projects.gitbook.io/start/)
