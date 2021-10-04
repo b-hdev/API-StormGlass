@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hellpme/Typescript-Api.git"
+    "url": "git+https://github.com/HellpMe/API-StormGlass.git"
   },
   "keywords": [
     "Typescript",
@@ -32,9 +32,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hellpme/Typescript-Api/issues"
+    "url": "https://github.com/HellpMe/API-StormGlass/issues"
   },
-  "homepage": "https://github.com/hellpme/Typescript-Api#readme",
+  "homepage": "https://github.com/HellpMe/API-StormGlass#README",
   "devDependencies": {
     "@types/config": "^0.0.39",
     "@types/express": "^4.17.13",
