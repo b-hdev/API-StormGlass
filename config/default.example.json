@@ -1,7 +1,7 @@
 {
     "App": {
       "database": {
-        "mongoURL": "mongodb+srv://admin:admin@api-stormglass.8pjx4.mongodb.net/Test-API?retryWrites=true&w=majority"
+        "mongoURL": "mongodb://localhost" //our mongodb url here
       },
       "resources": {
         "StormGlass": {
