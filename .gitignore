@@ -118,5 +118,5 @@ dist
 .pnp.*
 
 # NodeConfig ignores
-config/default.json
-config/test.json
+config/default.json/
+config/test.json/
