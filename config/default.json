@@ -1,7 +1,12 @@
 {
     "App": {
+      "port": "3000",
       "database": {
-        "mongoURL": "mongodb+srv://admin:admin@api-stormglass.8pjx4.mongodb.net/Test-API?retryWrites=true&w=majority"
+        "mongoURL": "mongodb+srv://admin:admin@stormglassverify.6xhowjh.mongodb.net/verifyclient?retryWrites=true&w=majority"
+      },
+      "auth": {
+        "key": "some-key",
+        "tokenExpiresIn": "20000000"
       },
       "resources": {
         "StormGlass": {
