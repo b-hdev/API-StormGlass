@@ -3,6 +3,7 @@ import stormGlassWeather3HoursFixture from '../fixtures/stormglass_weather_3_hou
 import apiForecastResponse1BeachFixture from '../fixtures/api_forecast_response_1_beach.json';
 import { User } from '@src/models/user';
 import AuthService from '@src/services/auth';
+import { Beach, BeachPosition } from '@src/models/beach';
 
 describe('Beach forecast functional tests', () => {
   const defaultUser: User = {

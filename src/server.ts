@@ -3,7 +3,7 @@ import { Server } from '@overnightjs/core';
 import { Application } from 'express';
 import bodyParser from 'body-parser';
 import { ForecastController } from './controllers/forecast';
-import * as database from '@src/database';
+import * as database from '@src/database/mongoose'
 import { BeachesController } from './controllers/beaches';
 import { UsersController } from './controllers/users';
 
